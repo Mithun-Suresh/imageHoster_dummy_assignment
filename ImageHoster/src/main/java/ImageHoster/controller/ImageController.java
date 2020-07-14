@@ -63,6 +63,7 @@ public class ImageController {
     }
     //Mithun-Changes-End
 
+    
     //This controller method is called when the request pattern is of type 'images/upload'
     //The method returns 'images/upload.html' file
     @RequestMapping("/images/upload")

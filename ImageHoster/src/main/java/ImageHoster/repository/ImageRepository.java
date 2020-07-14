@@ -60,7 +60,6 @@ public class ImageRepository {
         }
     }
 
-
     //The method creates an instance of EntityManager
     //Executes JPQL query to fetch the image from the database with corresponding id
     //Returns the image fetched from the database
